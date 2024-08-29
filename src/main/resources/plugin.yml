@@ -1,0 +1,14 @@
+name: XueHuaPiaoPiao
+version: 1.0
+main: me.miniblacktw.xuehuapiaopiao.Main
+api-version: 1.8
+description: 雪花飄飄插件
+commands:
+  xuehuapiaopiao:
+    description: 開始雪花飄飄
+    usage: /xuehuapiaopiao
+    permission: xuehua.piao
+permissions:
+  xuehua.piao:
+    description: 允許你透過 /xuehuapiaopiao 來雪花飄飄
+    default: op
