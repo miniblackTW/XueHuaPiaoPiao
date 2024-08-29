@@ -1,7 +1,7 @@
 # XueHuaPiaoPiao
-Xue Hua Piao Piao 
-Bei Feng Xiao Xiao
-a meme
+- Xue Hua Piao Piao 
+- Bei Feng Xiao Xiao
+- a meme
 
 # Command:
  - /xuehuapiaopiao: 開始雪花飄飄
