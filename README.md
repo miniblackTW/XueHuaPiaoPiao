@@ -1,10 +1,10 @@
 # XueHuaPiaoPiao
 - Xue Hua Piao Piao 
 - Bei Feng Xiao Xiao
-- a meme
+- a Chinese meme
 
 # Command:
- - /xuehuapiaopiao: 開始雪花飄飄(五秒)
+ - /xuehuapiaopiao: Starts XueHuaPiaoPiao (it lasts 5 seconds)
 
 # Permission:
- - xuehua.piao: 允許玩家透過 /xuehuapiaopiao 來雪花飄飄
+ - xuehua.piao: Allows players to XueHuaPiaoPiao with command "/xuehuapiaopiao"
